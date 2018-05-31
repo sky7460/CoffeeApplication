@@ -19,6 +19,7 @@ public class Main {
 			} else {
 				System.out.println("다름");
 			}
+			//이부분은 이클립스에서 추가
 	}
 
 }
